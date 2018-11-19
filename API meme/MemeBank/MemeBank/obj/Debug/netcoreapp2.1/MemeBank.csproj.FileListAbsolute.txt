@@ -1,0 +1,14 @@
+D:\GitHub\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.deps.json
+D:\GitHub\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.json
+D:\GitHub\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.dev.json
+D:\GitHub\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.dll
+D:\GitHub\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.pdb
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csprojAssemblyReference.cache
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csproj.CoreCompileInputs.cache
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cache
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cs
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfoInputs.cache
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfo.cs
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorTargetAssemblyInfo.cache
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.dll
+D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.pdb
