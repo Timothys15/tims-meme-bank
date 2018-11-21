@@ -1110,7 +1110,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Owin.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor/2.1.1": {
+      "Microsoft.AspNetCore.Razor/2.1.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Html.Abstractions": "2.1.1"
@@ -5775,16 +5775,16 @@
         "microsoft.aspnetcore.owin.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Razor/2.1.1": {
-      "sha512": "oDxJTufrOF2Y7g+p2jU5+2xtrcsb3KX20pH/KosLW5rbsJMAqaOwprI6gJlBQCGtMCYl/MbnC45ZObPmzyI0NQ==",
+    "Microsoft.AspNetCore.Razor/2.1.2": {
+      "sha512": "ctglRBQaqdVxW24gUNDSRcvp5hHI4xG5cmszQ2T7OuMqYXvjFl/c5488mpplFApWPyxqXMGw2/zKO9t0sbxPLQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.razor/2.1.1",
+      "path": "microsoft.aspnetcore.razor/2.1.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Razor.xml",
-        "microsoft.aspnetcore.razor.2.1.1.nupkg.sha512",
+        "microsoft.aspnetcore.razor.2.1.2.nupkg.sha512",
         "microsoft.aspnetcore.razor.nuspec"
       ]
     },
@@ -13102,6 +13102,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.AspNetCore.Razor >= 2.1.2",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.EntityFrameworkCore.Sqlite >= 2.1.4",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -13118,11 +13119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\MemeBank\\MemeBank\\MemeBank.csproj",
+      "projectUniqueName": "C:\\Users\\Tim\\Documents\\tims-meme-bank-API\\MemeBank\\MemeBank.csproj",
       "projectName": "MemeBank",
-      "projectPath": "D:\\GitHub\\MemeBank\\MemeBank\\MemeBank.csproj",
+      "projectPath": "C:\\Users\\Tim\\Documents\\tims-meme-bank-API\\MemeBank\\MemeBank.csproj",
       "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\MemeBank\\MemeBank\\obj\\",
+      "outputPath": "C:\\Users\\Tim\\Documents\\tims-meme-bank-API\\MemeBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13157,6 +13158,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Razor": {
+            "target": "Package",
+            "version": "[2.1.2, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",

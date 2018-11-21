@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "0dec724871c86851034448fdaa89e2ecaad5481f"
+    "signature": "cd71d8a6d5b5b3623d3971e3ebfa1216f25b8147"
   },
   "compilationOptions": {
     "defines": [
@@ -25,6 +25,7 @@
       "MemeBank/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
+          "Microsoft.AspNetCore.Razor": "2.1.2",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.1.4",
           "Microsoft.NETCore.App": "2.1.0",
@@ -38,6 +39,20 @@
         },
         "compile": {
           "MemeBank.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Razor/2.1.2": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Html.Abstractions": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.18207"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
@@ -1025,7 +1040,7 @@
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.1.1",
           "Microsoft.AspNetCore.NodeServices": "2.1.1",
           "Microsoft.AspNetCore.Owin": "2.1.1",
-          "Microsoft.AspNetCore.Razor": "2.1.1",
+          "Microsoft.AspNetCore.Razor": "2.1.2",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.AspNetCore.Razor.Language": "2.1.1",
           "Microsoft.AspNetCore.Razor.Runtime": "2.1.1",
@@ -1808,15 +1823,6 @@
         },
         "compileOnly": true
       },
-      "Microsoft.AspNetCore.Razor/2.1.1": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Html.Abstractions": "2.1.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
-        },
-        "compileOnly": true
-      },
       "Microsoft.AspNetCore.Razor.Language/2.1.1": {
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {}
@@ -1826,7 +1832,7 @@
       "Microsoft.AspNetCore.Razor.Runtime/2.1.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Html.Abstractions": "2.1.1",
-          "Microsoft.AspNetCore.Razor": "2.1.1"
+          "Microsoft.AspNetCore.Razor": "2.1.2"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Runtime.dll": {}
@@ -3775,6 +3781,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Microsoft.AspNetCore.Razor/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ctglRBQaqdVxW24gUNDSRcvp5hHI4xG5cmszQ2T7OuMqYXvjFl/c5488mpplFApWPyxqXMGw2/zKO9t0sbxPLQ==",
+      "path": "microsoft.aspnetcore.razor/2.1.2",
+      "hashPath": "microsoft.aspnetcore.razor.2.1.2.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",
       "serviceable": true,
@@ -4600,13 +4613,6 @@
       "sha512": "sha512-X6M3UwpwYcBK33mCp/xa9kcMKgfxZnMd4+q8RWGpLWI2Gy5V0jri0+HFfgHVXc9pVkKOrEHGn1K6Z+iT4nibWA==",
       "path": "microsoft.aspnetcore.owin/2.1.1",
       "hashPath": "microsoft.aspnetcore.owin.2.1.1.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.Razor/2.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-oDxJTufrOF2Y7g+p2jU5+2xtrcsb3KX20pH/KosLW5rbsJMAqaOwprI6gJlBQCGtMCYl/MbnC45ZObPmzyI0NQ==",
-      "path": "microsoft.aspnetcore.razor/2.1.1",
-      "hashPath": "microsoft.aspnetcore.razor.2.1.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/2.1.1": {
       "type": "package",

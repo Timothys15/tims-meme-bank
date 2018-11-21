@@ -12,3 +12,17 @@ D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfo.cs
 D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorTargetAssemblyInfo.cache
 D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.dll
 D:\GitHub\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.deps.json
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.json
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.dev.json
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cache
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cs
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfo.cs
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorTargetAssemblyInfo.cache
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\Tim\Documents\tims-meme-bank-API\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.pdb
