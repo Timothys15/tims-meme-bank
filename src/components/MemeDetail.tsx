@@ -87,7 +87,7 @@ export default class MemeDetail extends React.Component<IProps, IState> {
         }
     
         const currentMeme = this.props.currentMeme
-        const url = "http://phase2apitest.azurewebsites.net/api/meme/" + currentMeme.id
+        const url = "http://timsmemebank1001.azurewebsites.net/api/meme/" + currentMeme.id
         const updatedTitle = titleInput.value
         const updatedTag = tagInput.value
         fetch(url, {
@@ -114,7 +114,7 @@ export default class MemeDetail extends React.Component<IProps, IState> {
     }
 
     private deleteMeme(id: any) {
-        const url = "http://phase2apitest.azurewebsites.net/api/meme/" + id
+        const url = "http://timsmemebank1001.azurewebsites.net/api/meme/" + id
     
         fetch(url, {
             method: 'DELETE'
