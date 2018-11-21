@@ -13119,11 +13119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tim\\Documents\\tims-meme-bank-API\\MemeBank\\MemeBank.csproj",
+      "projectUniqueName": "D:\\GitHub\\Repositories\\tims-meme-bank\\MemeBank\\MemeBank.csproj",
       "projectName": "MemeBank",
-      "projectPath": "C:\\Users\\Tim\\Documents\\tims-meme-bank-API\\MemeBank\\MemeBank.csproj",
+      "projectPath": "D:\\GitHub\\Repositories\\tims-meme-bank\\MemeBank\\MemeBank.csproj",
       "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tim\\Documents\\tims-meme-bank-API\\MemeBank\\obj\\",
+      "outputPath": "D:\\GitHub\\Repositories\\tims-meme-bank\\MemeBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
